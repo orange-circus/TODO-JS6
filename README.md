@@ -1,2 +1,2 @@
-# TODO-JS6
+# todo-js
 Created with CodeSandbox
